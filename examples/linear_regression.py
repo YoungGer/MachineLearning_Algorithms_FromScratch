@@ -1,8 +1,8 @@
 import sys
 sys.path.append("../")
-from mla.linear_models import LinearRegression, LinearRegression_GD
-from sklearn.metrics import mean_squared_error
 import numpy as np
+from mla.linear_models import LinearRegression, LinearRegression_GD
+from mla.metrics import mean_squared_error
 
 # construct data
 X = np.random.random(1000)[:,None]

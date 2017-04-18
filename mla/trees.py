@@ -1,6 +1,7 @@
 from collections import Counter, deque
-from mla.metrics import gini_index
 import numpy as np
+from mla.metrics import gini_index
+
 
 # Decision Tree Node
 class DT_Node():
