@@ -12,3 +12,4 @@ All algorithms are implemented in Python, using numpy, scipy, sklearn(just using
 - [Linear regression, Logistic regression](mla/linear_models.py)
 - [Decision Tree](mla/trees.py)
 - [Naive Bayes](mla/bayes.py)
+- [Principal component analysis (PCA)](mla/pca.py)
